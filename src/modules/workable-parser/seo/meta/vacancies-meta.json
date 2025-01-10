@@ -1,0 +1,114 @@
+{
+  "meta": [
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "{company} is in search of a {title} to become a part of our team. If you're ready to make a change and work in {location}, you may be exactly the person we’re in a dire need of.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "We're currently seeking a talented individual for the position of {title} to join our team at {company}. If you're eager for a career shift and eager to work in {location}, you might be the perfect fit we've been searching for. Posted {date}.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "At {company}, we're actively seeking a dedicated {title} to join our dynamic team. If you're prepared to embark on a new journey and contribute to our team in {location}, you could be the ideal candidate we're seeking. Updated {date}.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "We're on the lookout for a skilled {title} to join our team here at {company}. If you're ready to embrace change and thrive in {location}, you might just be the missing piece we've been seeking. Posted {date}.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "Join our team at {company} as we search for a passionate {title} to come on board. If you're seeking a fresh opportunity and are excited to work in {location}, you could be the ideal candidate we're searching for. Updated {date}.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "(Название компании) is currently in need of a motivated {title} to join our team. If you're ready to take on a new challenge and thrive in {location}, you might be just the talent we're seeking. Posted {date}.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "Are you the {title} we've been searching for at {company}? Join us as we expand our team in {location}. If you're eager for change and ready to make an impact, you could be the perfect fit. Updated {date}.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "Join the team at {company} as we seek a driven {title} to join us. If you're seeking new opportunities and are keen to work in {location}, you could be the talent we're urgently seeking. Posted {date}.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "We're on the hunt for a talented {title} to join our team at {company}. If you're ready to take the next step and work in {location}, you could be the perfect addition we're looking for. Updated {date}.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "Join us at {company} as we search for a dedicated {title} to join our team. If you're eager for a change and ready to contribute in {location}, you might just be the talent we're seeking. Posted {date}.",
+        "replacers": []
+      }
+    },
+    {
+      "title": {
+        "template": "{title} - {state} {company} - jobhire.ai",
+        "replacers": []
+      },
+      "description": {
+        "template": "Are you the {title} we're seeking at {company}? Join our team and make a difference in {location}. If you're ready for a new challenge, you could be the ideal candidate we're looking for. Updated {date}.",
+        "replacers": []
+      }
+    }
+  ]
+}

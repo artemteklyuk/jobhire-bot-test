@@ -1,0 +1,14 @@
+{
+  "meta": [
+    {
+      "title": {
+        "template": "All Jobs You May Want In {state} — One Page For Any Jobs In {state}",
+        "replacers": []
+      },
+      "description": {
+        "template": "All possible job opportunities for {state} on one page for you. Use Jobhire.ai to pick one of the states to find a job that takes in account your skills and career history.",
+        "replacers": []
+      }
+    }
+  ]
+}

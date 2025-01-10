@@ -1,0 +1,521 @@
+{
+  "meta": [
+    {
+      "title": {
+        "template": "{variant0} {variant1} for those looking for open {title} vacancies in {state}.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["Best", "The most relevant", "The most recent"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["job offers", "job opportunities", "openings"]
+          }
+        ]
+      },
+      "description": {
+        "template": "{variant0} {variant1} to make a {variant2} job search a reality. Use Jobhire.ai so you can find and {variant3} a desired {title} job in {state}.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["Free", "Affordable", "Simple"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["tools and resources", "instruments and assets", "website"]
+          },
+          {
+            "tag": "variant2",
+            "count": 3,
+            "variants": ["faster", "better", "quicker"]
+          },
+          {
+            "tag": "variant3",
+            "count": 3,
+            "variants": ["lend", "get", "gain"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "Jobhire | Top Relevant {title} roles at the top companies of {state}",
+        "replacers": []
+      },
+      "description": {
+        "template": "Jobhire.ai is an {variant0} {variant1} solution for {title} {variant2} to {variant3} and apply for jobs automatically. Don't wait too long to begin your successful job search!",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["automated", "AI-powered", "mechanized"]
+          },
+          {
+            "tag": "variant1",
+            "count": 2,
+            "variants": ["recruitment", "employment"]
+          },
+          {
+            "tag": "variant2",
+            "count": 2,
+            "variants": ["job seekers", "job hunters"]
+          },
+          {
+            "tag": "variant3",
+            "count": 3,
+            "variants": ["search", "look", "seek"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "Jobhire {state} | Automated Job Search & Applications With The Smartest AI",
+        "replacers": []
+      },
+      "description": {
+        "template": "Upload your {variant0}, {variant1} your {variant2} search preferences and let our AI to {variant3} on your behalf multiple times every single day. We will help you lend your desired {title} in {state}.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 2,
+            "variants": ["resume", "CV"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["select", "set", "sort out"]
+          },
+          {
+            "tag": "variant2",
+            "count": 2,
+            "variants": ["job", "employment"]
+          },
+          {
+            "tag": "variant3",
+            "count": 2,
+            "variants": ["automatically apply", "auto-apply"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "Jobhire.ai | Auto Apply Every Day Using {variant0} Automation {variant1} | Job Search AI",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["Advanced", "Top-Notch", "Progressive"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["Tool", "Instrument", "Application"]
+          }
+        ]
+      },
+      "description": {
+        "template": "Automatically apply for {variant0} of {title} {variant1} in {state} in a {variant2}. Jobhire will auto fill your job applications and apply to all of the open vacancies that {variant3} you on {variant4} such as Linkedin and Indeed in the USA, {state}.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 2,
+            "variants": ["hundreds", "thousands"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["jobs", "vacancies", "positions"]
+          },
+          {
+            "tag": "variant2",
+            "count": 3,
+            "variants": ["single click", "minute", "second"]
+          },
+          {
+            "tag": "variant3",
+            "count": 2,
+            "variants": ["are suitable for", "fit"]
+          },
+          {
+            "tag": "variant4",
+            "count": 2,
+            "variants": ["platforms", "websites"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "Jobhire: Autofill Job Application in {state} with AI",
+        "replacers": []
+      },
+      "description": {
+        "template": "Your AI {variant0} for {title} job {variant1} that is designed particularly for the {variant2} {variant3} market. We provide you with {variant4} analytics and auto-applies on Workday, Greenhouse, Lever, Workable, Indeed, Monster, and Linkedin.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["assistant", "helper", "aide"]
+          },
+          {
+            "tag": "variant1",
+            "count": 2,
+            "variants": ["application", "applying"]
+          },
+          {
+            "tag": "variant2",
+            "count": 3,
+            "variants": ["current", "present-day", "modern"]
+          },
+          {
+            "tag": "variant3",
+            "count": 4,
+            "variants": ["job", "employment", "labor", "labour"]
+          },
+          {
+            "tag": "variant4",
+            "count": 4,
+            "variants": ["resume", "CV", "cover letter", "resume keywords"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "AI-Powered {variant0} {variant1} in {state}| Jobhire.ai ",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["Job Search", "Job Hunting", "Job Placement"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["Tools", "Means", "Appliance"]
+          }
+        ]
+      },
+      "description": {
+        "template": "Jobhire.ai {variant0} job seekers to land more {title} jobs {variant1} with the auto-apply. Our {variant2} is one of our {variant3} that {variant4} custom cover letters, rewrites resumes, and search the {title} vacancies for you.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["helps", "assists", "aids"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["quicker", "swiftly", "faster"]
+          },
+          {
+            "tag": "variant2",
+            "count": 3,
+            "variants": ["CV-Tuner", "Job Application Assistant", "Resume Optimizer"]
+          },
+          {
+            "tag": "variant3",
+            "count": 3,
+            "variants": ["tools", "assets", "mechanisms"]
+          },
+          {
+            "tag": "variant4",
+            "count": 3,
+            "variants": ["creates", "generates", "makes"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "Jobhire.ai {variant0} Checker and {variant1} Tools for {title} in {state}",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["Resume", "Cover Letter", "Email"]
+          },
+          {
+            "tag": "variant1",
+            "count": 2,
+            "variants": ["Job Search", "Automatic Apply"]
+          }
+        ]
+      },
+      "description": {
+        "template": "Jobhire.ai {variant0} can {variant1} you {variant2} or optimize your {title} resume for a specific job listing in {state} so that you {variant3} more interviews.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["resume checker", "tracker of responses from employers", "emails creator"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["help", "assist", "help out"]
+          },
+          {
+            "tag": "variant2",
+            "count": 2,
+            "variants": ["build", "write"]
+          },
+          {
+            "tag": "variant3",
+            "count": 3,
+            "variants": ["get", "lend", "pass"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "{variant0} ATS {title} {variant1} | Jobhire.ai",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["Free", "Fast", "Best"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["Resume Scanner", "CV-Tuner", "Job Application Assistant"]
+          }
+        ]
+      },
+      "description": {
+        "template": "Jobhire is {variant0} {state} {variant1} keyword scanner and {variant2} tracker, {variant3} to {variant4}, {variant5} and {variant6} your resume to a {title} job description like an ATS.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["a free", "an online", "a great"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["resume", "cover letter", "email"]
+          },
+          {
+            "tag": "variant2",
+            "count": 2,
+            "variants": ["job application", "employer's responses"]
+          },
+          {
+            "tag": "variant3",
+            "count": 3,
+            "variants": ["designed", "made", "created"]
+          },
+          {
+            "tag": "variant4",
+            "count": 3,
+            "variants": ["scan", "check", "examine"]
+          },
+          {
+            "tag": "variant5",
+            "count": 2,
+            "variants": ["compare", "equate"]
+          },
+          {
+            "tag": "variant6",
+            "count": 2,
+            "variants": ["score", "chalk up"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "Jobhire AI: Your Personal Assistant, {state} Resumes And Job Dashboard",
+        "replacers": []
+      },
+      "description": {
+        "template": "Jobhire is an AI-powered job {variant0} assistant that helps you stand out from the competition with {variant1} cover letters, resumes, interview questions, and other materials for every {title} vacancy you {variant2} for in {state}.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["application", "qualification", "record"]
+          },
+          {
+            "tag": "variant1",
+            "count": 2,
+            "variants": ["personalized", "professional"]
+          },
+          {
+            "tag": "variant2",
+            "count": 2,
+            "variants": ["apply", "try out"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "Jobhire.ai | {variant0} {title} AI Resume {variant1} used by thousands {variant2} in {state} ",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["Supreme", "Leading", "Major"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["Fine-Tuner", "Tailor", "Customizer"]
+          },
+          {
+            "tag": "variant2",
+            "count": 3,
+            "variants": ["users", "job seekers", "job hunters"]
+          }
+        ]
+      },
+      "description": {
+        "template": "Jobhire AI {variant0} are providing thousands of job seekers with {title} positions in {state}. Create your perfect {variant1} in a few minutes with us.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 4,
+            "variants": ["tools", "instruments", "means", "assets"]
+          },
+          {
+            "tag": "variant1",
+            "count": 4,
+            "variants": ["resume", "cover letter", "cv", "applications"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "Jobhire.ai {state} | {variant0} Your Dream Job {variant1}",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["Find", "Get", "Land"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["Faster", "In A Flash", "Quickly"]
+          }
+        ]
+      },
+      "description": {
+        "template": "Get matched with {title} offers in {state} that {variant0}, autofill {variant1} anywhere on the web, browse curated job lists, & easily track your applications with Simplify.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 2,
+            "variants": ["fit you", "are for your liking"]
+          },
+          {
+            "tag": "variant1",
+            "count": 2,
+            "variants": ["job applications", "resumes"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "Jobhire.ai | {variant0} auto-applying aid for {variant1} your {title} application results!",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["The best", "Top", "Greatest"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["maximizing", "improving", "boosting"]
+          }
+        ]
+      },
+      "description": {
+        "template": "Jobhire is a {variant0} management tool that helps potential {title} to find dream job in {state}. It auto-applies for jobs and tracks your {variant1}. Sign up, choose your plan, and stay in touch with employers. Try Jobhire {variant2}!",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["job-hunting", "employment search", "job search"]
+          },
+          {
+            "tag": "variant1",
+            "count": 2,
+            "variants": ["progress", "results"]
+          },
+          {
+            "tag": "variant2",
+            "count": 2,
+            "variants": ["now", "today"]
+          }
+        ]
+      }
+    },
+    {
+      "title": {
+        "template": "{variant0}, AI Resume {variant1} and Other Job Search Tools | Jobhire {state}",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 2,
+            "variants": ["Job Application Assistant", "AI-Driven Application"]
+          },
+          {
+            "tag": "variant1",
+            "count": 2,
+            "variants": ["Constructor", "Optimizer"]
+          }
+        ]
+      },
+      "description": {
+        "template": "Jobhire helps you {variant0} {variant1} {variant2} and {variant3} in seconds, auto-apply your {title} job applications, and {variant4} {variant5} your job search.",
+        "replacers": [
+          {
+            "tag": "variant0",
+            "count": 3,
+            "variants": ["write", "craft", "create"]
+          },
+          {
+            "tag": "variant1",
+            "count": 3,
+            "variants": ["tailored", "specific", "perfect"]
+          },
+          {
+            "tag": "variant2",
+            "count": 2,
+            "variants": ["resumes", "CV"]
+          },
+          {
+            "tag": "variant3",
+            "count": 2,
+            "variants": ["cover letters", "emails"]
+          },
+          {
+            "tag": "variant4",
+            "count": 2,
+            "variants": ["automatically", "effortlessly"]
+          },
+          {
+            "tag": "variant5",
+            "count": 2,
+            "variants": ["organizes", "manages"]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "meta": [
+    {
+      "title": {
+        "template": "All Jobs on One Page — Choose Job in Any Field and State — Jobhire — page {title}",
+        "replacers": []
+      },
+      "description": {
+        "template": "All possible job opportunities in one place! With Jobhire.ai's help you can pick out between thousands of job listings chosen to fit your skills and preferences. - page {title}",
+        "replacers": []
+      }
+    }
+  ]
+}

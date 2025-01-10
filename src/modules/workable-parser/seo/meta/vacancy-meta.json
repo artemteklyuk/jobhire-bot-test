@@ -1,0 +1,14 @@
+{
+  "meta": [
+    {
+      "title": {
+        "template": "All {title} Vacancies In All USA Companies — Options In Each And Every State",
+        "replacers": []
+      },
+      "description": {
+        "template": "Every open {title} vacancy in one place! Let Jobhire.ai help you to choose between a huge number of jobs in vacancies listing created in accordance with your unique skills and specific demands.",
+        "replacers": []
+      }
+    }
+  ]
+}
