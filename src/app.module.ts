@@ -12,10 +12,6 @@ import { BrowserBotModule } from './modules/browser-bot/browser-bot.module';
 
 @Module({
   imports: [
-    RabbitMQModule.forRootAsync(
-      RabbitMQModule,
-      BOT_QUEUE_SETTINGS.dynamicModuleOptions,
-    ),
     TypeOrmModule.forRootAsync(options()),
     ConfigModule.forRoot({
       isGlobal: true,
